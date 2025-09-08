@@ -10,7 +10,7 @@ export const Home = () => {
 
             {/* Hero */}
             <section className="text-center py-20 px-4 space-y-4">
-                <img className="h-40 w-40 rounded-full mx-auto " src={"/public/foto.jpg"} alt="" />
+                <img className="h-40 w-40 rounded-full mx-auto " src={"/foto.jpg"} alt="" />
                 <h2 className="text-4xl font-bold mb-4 text-[#E0E0E0] ">Hola, soy Michael Deyvi</h2>
                 <p className="text-[#CFCFCF] max-w-xl mx-auto">
                     Desarrollador web fullstack apasionado por crear aplicaciones elegantes y funcionales usando React, Tailwind, Node.js y Typescript.
@@ -36,7 +36,7 @@ export const Home = () => {
                         Soy un desarrollador web fullstack con experiencia en React, Node.js y Tailwind. Me apasiona crear aplicaciones completas que combinan interfaces limpias con backend eficiente. Siempre estoy aprendiendo nuevas tecnologías y buscando mejorar la calidad de mis proyectos.
 
                     </p>
-                    <img className="h-30 w-30 sm:h-40 sm:w-40 rounded-full mx-auto " src={"/public/foto.jpg"} alt="" />
+                    <img className="h-30 w-30 sm:h-40 sm:w-40 rounded-full mx-auto " src={"/foto.jpg"} alt="" />
                 </div>
             </section>
 
