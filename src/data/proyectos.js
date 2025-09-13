@@ -2,7 +2,7 @@ export const proyectos = [
   {
     id: 1,
     title: "Devtree",
-    description: "Aplicación fullstack con React, Tailwind, Node.js y TypeScript. Permite a los usuarios agregar links de sus redes sociales y ver las publicaciones de sus amigos.",
+    description: "Aplicación fullstack con React, Tailwind, Node.js y TypeScript. Permite a los usuarios agregar links de sus redes sociales y compartir tu perfil con tus amigos.",
     image: "/devtree.jpg",
     link: "https://github.com/DeyviCastro/devtree_backend",
     demo: "https://jovial-medovik-601b3d.netlify.app/"
