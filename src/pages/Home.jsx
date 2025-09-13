@@ -13,7 +13,7 @@ export const Home = () => {
                 <img className="h-40 w-40 rounded-full mx-auto " src={"/foto.jpg"} alt="" />
                 <h2 className="text-4xl font-bold mb-4 text-[#E0E0E0] ">Hola, soy Michael Deyvi</h2>
                 <p className="text-[#CFCFCF] max-w-xl mx-auto">
-                    Desarrollador web fullstack apasionado por crear aplicaciones elegantes y funcionales usando React, Tailwind, Node.js y Typescript.
+                    Desarrollador web con experiencia en proyectos frontend y backend utilizando React, Tailwind, Node.js y TypeScript. Me motiva crear aplicaciones eficientes con interfaces claras y aportar valor en cada proyecto.
                 </p>
             </section>
 
@@ -33,7 +33,7 @@ export const Home = () => {
                 <h2 className="text-3xl font-bold mb-4 text-[#E0E0E0]">Sobre mí</h2>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 items-center">
                     <p className="text-[#CFCFCF] text-lg">
-                        Soy un desarrollador web fullstack con experiencia en React, Node.js y Tailwind. Me apasiona crear aplicaciones completas que combinan interfaces limpias con backend eficiente. Siempre estoy aprendiendo nuevas tecnologías y buscando mejorar la calidad de mis proyectos.
+                        Desarrollador web con experiencia construyendo aplicaciones completas usando React, Tailwind, Node.js y TypeScript. Disfruto transformar ideas en soluciones funcionales, combinando un diseño limpio con un backend eficiente. Mi objetivo es seguir creciendo profesionalmente y aportar innovación en cada proyecto.
 
                     </p>
                     <img className="h-30 w-30 sm:h-40 sm:w-40 rounded-full mx-auto " src={"/foto.jpg"} alt="" />
